@@ -7,6 +7,14 @@
 .buildlog/
 .history
 
+ios/
+android/
+windows/
+web/
+macos/
+linux/
+.idea/
+.dart_tool/
 
 
 # Flutter repo-specific
