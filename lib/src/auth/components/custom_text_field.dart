@@ -27,7 +27,7 @@ class _CustomTextFieldState extends State<CustomTextField> {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(left: 15.0, right: 15.0, top: 10.0, bottom: 15.0),
+      padding: const EdgeInsets.only(top: 10.0),
       child: TextField(
         obscureText: isObscure,
         decoration: InputDecoration(
